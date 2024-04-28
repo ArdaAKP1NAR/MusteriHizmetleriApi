@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerServiceAPI", "MusteriHizmetleriApi\CustomerServiceAPI.csproj", "{6CDAB7A8-C2F5-450A-ADC3-419C4646E33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerServiceLibrary", "CustomerServiceLibrary\CustomerServiceLibrary.csproj", "{C7A6F2D3-2083-4542-B5FB-550818A92394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDAB7A8-C2F5-450A-ADC3-419C4646E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDAB7A8-C2F5-450A-ADC3-419C4646E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDAB7A8-C2F5-450A-ADC3-419C4646E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDAB7A8-C2F5-450A-ADC3-419C4646E33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A6F2D3-2083-4542-B5FB-550818A92394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A6F2D3-2083-4542-B5FB-550818A92394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A6F2D3-2083-4542-B5FB-550818A92394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A6F2D3-2083-4542-B5FB-550818A92394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A978DF83-32FE-4C1A-B864-B3E0C21719EC}
+	EndGlobalSection
+EndGlobal
